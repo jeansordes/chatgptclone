@@ -1,0 +1,9 @@
+#messages {
+	min-height: calc(100vh - 300px);
+	max-height: calc(100vh - 300px);
+	overflow-y: auto;
+}
+
+.pre-wrap {
+	white-space: pre-wrap;
+}
